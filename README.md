@@ -1,4 +1,4 @@
-# ![Ahmed Almijbari](image.jpg)
+# ![Ahmed Almijbari](personal_Github.jpg)
 
 ## 🌟 About Me
 
