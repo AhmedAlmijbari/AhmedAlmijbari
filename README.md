@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 Hi! I'm **Ahmed**. I graduated from the Elite MSc program in Neuroengineering at TU Munich. Through my hard work and dedication, I have won two scholarships and graduated with an honour and research excellence certificate from the elite network of Bavaria. 
 
 My passion lies in using machine learning and data science to understand the brain and enhance human lives. 
@@ -13,4 +13,4 @@ Let's talk if you'd like to use computational and engineering solutions for a po
 
 Competencies: Neuroengineering, Biomedical Engineering, Artificial Intelligence, Machine Learning, Data Science, Data Analysis, Data Processing, Data Visualisation, Signal Processing, Image Processing, Numerical Methods, Brain-computer Interface (BCI), Neuroprosthetics, Biomedical AI Algorithms, Computational Engineering, Biomedical Computing, Scientific Computing, Neuroimaging, Software Engineering, Programming in Python and Matlab.
 
--->
+
