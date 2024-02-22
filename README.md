@@ -1,4 +1,4 @@
-# ![Ahmed Almijbari](https://ahmedalmijbari.github.io/authors/admin/avatar_hudc9e59371ec778533035c6b370706ab2_9664830_270x270_fill_q75_lanczos_center.jpg)
+# ![Ahmed Almijbari](photo.jpg)
 
 ## 🌟 About Me
 
