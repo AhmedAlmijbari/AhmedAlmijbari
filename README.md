@@ -2,11 +2,13 @@
 
 ## 🌟 About Me
 
-Hey there! I'm Ahmed Almijbari, a passionate neuroengineering graduate from the Elite MSc program at **TU Munich**. My journey has been marked by dedication, leading to the honour of receiving two scholarships and graduating with excellence from the esteemed Bavarian elite network.
+Hey there! I'm Ahmed Almijbari, a passionate neuroengineering graduate from the Elite MSc program at **TU Munich**. My journey has been marked by dedication, leading to the honour of receiving two scholarships and graduating with excellence from the Elite Network of Bavaria.
 
 ## 🚀 Experience
 
-As a research assistant at **Klinikum rechts der Isar** and **TU Munich**, I've ventured deep into the enigmatic realm of neural dynamics. With fMRI data as my compass, I've navigated through the intricate pathways of brain activity, uncovering profound insights. My endeavours involved wielding formidable data science tools to dissect brain images of 24 subjects, a trove containing 160M time series signals and over 20GB of data.
+As a research assistant at **Klinikum rechts der Isar** and **TU Munich**, I've used fMRI data to explore the neural dynamics of the brain and find meaningful patterns in brain activity. I implemented and developed large-scale data science tools to analyse and understand brain images of 24 subjects containing 160M time series signals and 20+ GB of data.
+
+
 
 ## 📬 Contact Me
 
