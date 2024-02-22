@@ -1,4 +1,4 @@
-# ![Ahmed Almijbari](photo.jpg)
+# ![Ahmed Almijbari](image.jpg)
 
 ## 🌟 About Me
 
